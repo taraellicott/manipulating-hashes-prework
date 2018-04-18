@@ -1,3 +1,5 @@
+
+
 # Code Along Exercise: Manipulating Hashes
 
 ## Objectives
